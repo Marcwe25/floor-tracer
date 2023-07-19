@@ -20,11 +20,11 @@ Examples :
 	&#8594;![](/assets/e32.jpg)
 
 ## current limitation:
-	- result are z planar
-	- curved spline are not supported,
-	  also you can apply a normalize spline modifier or divide the curves.
-	- window, door and other symbol must be hidden,
-	  splines will be created for windows / doors by guessing walls openings.
+- result are z planar
+- curved spline are not supported,
+  also you can apply a normalize spline modifier or divide the curves.
+- window, door and other symbol must be hidden,
+  splines will be created for windows / doors by guessing walls openings.
 
 
 ## Usage
