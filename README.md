@@ -30,7 +30,7 @@ Examples :
 ## Usage
 some parameters should be tweaked, among other max_wall_width, max_bridge_size (max opening width),...
 
-Floor Tracer is written for 3ds Max 2018
-To launch the application:
-Update path to reflect path to directory
-3ds Max rollout \maxscript\floorTracer.ms
+Floor Tracer is written for 3ds Max 2018\
+To launch the application:\
+Update path to reflect path to directory \
+3ds Max rollout \maxscript\floorTracer.ms \
