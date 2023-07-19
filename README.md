@@ -9,9 +9,9 @@ This script, generate needed shapes after correcting imprecisions.\
 - no required libraries
 
 Examples :
-! /assets/e11.jpg
-! /assets/e12.jpg
-! /assets/e21.jpg
-! /assets/e22.jpg
-! /assets/e31.jpg
-! /assets/e32.jpg
+! [] /assets/e11.jpg
+! [] /assets/e12.jpg
+! [] /assets/e21.jpg
+! [] /assets/e22.jpg
+! [] /assets/e31.jpg
+! [] /assets/e32.jpg
