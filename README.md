@@ -7,3 +7,11 @@ The 3d artist have to draw them from scratch, using the architect’s drawing as
 This script, generate needed shapes after correcting imprecisions.\
 - python 2.7
 - no required libraries
+
+Examples :
+! /assets/e11.jpg
+! /assets/e12.jpg
+! /assets/e21.jpg
+! /assets/e22.jpg
+! /assets/e31.jpg
+! /assets/e32.jpg
