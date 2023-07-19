@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6a27625-ef9b-41ff-b2b3-c4ac6e2798a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dAostT0gDfbHabA2TR3JgoOPm5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\happyCouple\Google Drive\pythonMax\pr6\test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\happyCouple\Google Drive\pythonMax\pr6\test" />
+      <recent name="C:\Users\happyCouple\Google Drive\pythonMax\pr6" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="test02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pr6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="302" key="GridCell.Tab.0.bottom" timestamp="1592482811921">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="302" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1592482811921" />
+    <state width="1899" height="302" key="GridCell.Tab.0.center" timestamp="1592482811921">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="302" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1592482811921" />
+    <state width="1899" height="302" key="GridCell.Tab.0.left" timestamp="1592482811919">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="302" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1592482811919" />
+    <state width="1899" height="302" key="GridCell.Tab.0.right" timestamp="1592482811921">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="302" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1592482811921" />
+    <state x="68" y="263" key="SettingsEditor" timestamp="1592392905554">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="68" y="263" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1592392905554" />
+    <state x="794" y="185" width="570" height="354" key="StructurePopup" timestamp="1593202057798">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="794" y="185" width="570" height="354" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1593202057798" />
+    <state x="1165" y="275" width="555" height="524" key="StructurePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1592399982788" />
+    <state width="498" height="445" key="SwitcherDM" timestamp="1592399113192">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="498" height="445" key="SwitcherDM/0.0.1920.1080@0.0.1920.1080" timestamp="1592399113192" />
+    <state x="389" y="97" width="587" height="534" key="find.popup" timestamp="1593067075300">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="97" width="587" height="534" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1593067075300" />
+    <state x="339" y="157" key="run.anything.popup" timestamp="1593063550075">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1593063550075" />
+    <state x="623" y="237" width="672" height="678" key="search.everywhere.popup" timestamp="1592392957596">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="237" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1592392957596" />
+  </component>
+</project>
