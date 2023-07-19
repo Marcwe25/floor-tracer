@@ -9,9 +9,12 @@ This script, generate needed shapes after correcting imprecisions.\
 - no required libraries
 
 Examples :/
+Openings have been closed with new spline.\
 ![](/assets/e11.jpg)
-![](/assets/e12.jpg)/
+![](/assets/e12.jpg)\
+Imprecisions have been corrected.\
 ![](/assets/e21.jpg)
-![](/assets/e22.jpg)/
+![](/assets/e22.jpg)\
+Related lines have been turned into geometric regions.\
 ![](/assets/e31.jpg)
-![](/assets/e32.jpg)
+![](/assets/e32.jpg)\
