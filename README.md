@@ -11,10 +11,10 @@ This script, generate needed shapes after correcting imprecisions.
 Examples :
 1. Openings have been closed with new spline.\
 	![](/assets/e11.jpg)
-	![](/assets/e12.jpg)
+	&rarr![](/assets/e12.jpg)
 2. Imprecisions have been corrected.\
 	![](/assets/e21.jpg)
-	![](/assets/e22.jpg)
+	&rarr![](/assets/e22.jpg)
 3. Related lines have been turned into geometric regions.\
 	![](/assets/e31.jpg)
-	![](/assets/e32.jpg)
+	&rarr![](/assets/e32.jpg)
